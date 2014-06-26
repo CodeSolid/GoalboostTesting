@@ -78,8 +78,8 @@ As this is the "Executive Summary" keep information brief and to the point.
 <table>
 <tr><th colspan="2">Task and Timer User Interface</th</tr>
 <tr><th>Feature</th><th>Test Case</th></tr>
-<tr><td>User can create task</td><td><a href="tc_createTask.html">Test case</a></td></tr>
-<tr><td>User can view a task</td><td><a href="tc_createTask.html">Test case</a></td></tr>
+<tr><td>User can create task</td><td><a href="../md/tc_createTask.md">Test case</a></td></tr>
+<tr><td>User can view a task</td><td><a href="../md/tc_createTask.md">Test case</a></td></tr>
 </table>
 
 <br />

@@ -26,4 +26,4 @@ Selenium Test Case
 
 Not applicable.  Manual test.
 
-[Test Plan](TestPlan.html)
+[Test Plan](../md/TestPlan.md)
