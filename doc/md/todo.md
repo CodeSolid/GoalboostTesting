@@ -9,6 +9,7 @@ Together
 - [ ] Merge build.gradle
 - [ ] Brainstorm testplan sections
 - [ ] Decide on test users
+- [ ] Discuss Dogfooding / Order Jira / Jira class
 
 
 John :: CodeSolid / Jenniffer
@@ -30,3 +31,4 @@ John :: Goalboost
 --
 - [ ] Finish CRUD operations on project
 - [ ] Basic publish hours for task
+- [ ] Bug timeslip delete broken / not implemented
