@@ -9,7 +9,7 @@ Together
 - [ ] Merge build.gradle
 - [ ] Brainstorm testplan sections
 - [ ] Decide on test users
--
+
 
 John :: CodeSolid / Jenniffer
 -- 
