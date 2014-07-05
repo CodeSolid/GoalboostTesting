@@ -6,11 +6,11 @@ The Giant Todo List
 Together
 --
 
-[]
+- []
 
 John
 -- 
 
 Jenniffer
 --
-[x] Tutorial part one
+- [x] Tutorial part one
