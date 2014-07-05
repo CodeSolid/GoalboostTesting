@@ -6,7 +6,7 @@ The Giant Todo List
 Together
 --
 
-- []
+- [ ] Do something not done.
 
 John
 -- 
